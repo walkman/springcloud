@@ -21,6 +21,7 @@
         <module>ribbon</module>
         <module>eurekaclient</module>
         <module>feign</module>
+        <module>zuul</module>
     </modules>
 
     <properties>
