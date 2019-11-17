@@ -24,6 +24,7 @@
         <module>zuul</module>
         <module>configserver</module>
         <module>configclient</module>
+        <module>miya</module>
     </modules>
 
     <properties>
