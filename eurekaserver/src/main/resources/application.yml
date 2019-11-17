@@ -13,3 +13,6 @@ eureka:
 spring:
   application:
     name: eurka-server
+
+  profiles:
+    active: peer2 # 修改peer1， peer2， 分别启动。
